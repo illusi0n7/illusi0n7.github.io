@@ -7,14 +7,14 @@ highlighter: pygments
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: illusi0n7's blog
+title: illusi0n7
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: illusi0n7
+      title: illusi0n7's blog
 
 description: Stylish Jekyll Theme
 author:
