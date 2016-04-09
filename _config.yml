@@ -5,8 +5,8 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
+disqus: illusi0n7
+google_analytics: illusi0n7
 title: illusi0n7
 
 defaults:
@@ -24,7 +24,7 @@ author:
 #  twitter: 
  # pinterest: asd123
   #linkedin: 
-  bio: Share my memory to all.
+  bio: Share my memory
   email_md5: 6e9e1a950c1bc5aaaa2ea1929591c871
 
 rss_path: feed.xml
