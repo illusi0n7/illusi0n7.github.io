@@ -17,6 +17,14 @@ int main() {
 }
 ```
 
+{% highlight yaml %}
+#include <stdio.h>
+
+int main() {
+	return 0;
+}
+{% highlight C %}
+
 > indented
 
 **bold**  
