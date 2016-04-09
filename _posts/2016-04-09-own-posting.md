@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Markdown 테스트
 categories: [general, markdown]
 tags: [demo, markdown]
