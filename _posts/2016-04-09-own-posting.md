@@ -17,13 +17,13 @@ int main() {
 }
 ```
 
-{% highlight yaml %}
+{% highlight c %}
 #include <stdio.h>
 
 int main() {
 	return 0;
 }
-{% endhighlight C %}
+{% endhighlight %}
 
 > indented
 
