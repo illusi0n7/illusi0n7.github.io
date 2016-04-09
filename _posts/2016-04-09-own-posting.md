@@ -4,7 +4,6 @@ title: Markdown 테스트
 categories: [general, markdown]
 tags: [demo, markdown]
 description: Test posting for check markdown.
-fullview: true
 comments: true
 ---
 
