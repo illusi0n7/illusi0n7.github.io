@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test working of markdown
+title: Markdown 테스트
 categories: [general, markdown]
 tags: [demo, markdown]
 description: Test posting for check markdown.
@@ -19,9 +19,9 @@ int main() {
 
 > indented
 
-**bold**
-*italic*
-***bold italic***
+**bold**  
+*italic*  
+***bold italic***  
 ~delete~
 
 - list 0
@@ -33,3 +33,5 @@ int main() {
 # 큰 타이틀
 
 ## 작은타이틀
+
+`키워드`
