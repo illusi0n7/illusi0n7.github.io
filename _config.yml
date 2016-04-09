@@ -7,14 +7,14 @@ highlighter: rouge
 markdown: kramdown
 disqus: illusi0n7
 google_analytics: illusi0n7
-title: illusi0n7
+title: 떠드
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: illusi0n7's blog
+      title: 기억 저장소
 
 description: Stylish Jekyll Theme
 author:
@@ -24,7 +24,7 @@ author:
 #  twitter: 
  # pinterest: asd123
   #linkedin: 
-  bio: Share my memory
+  bio: 끄적 끄적 적어야지
   email_md5: 6e9e1a950c1bc5aaaa2ea1929591c871
 
 rss_path: feed.xml
