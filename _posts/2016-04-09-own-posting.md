@@ -35,7 +35,7 @@ int main() {
 **bold**  
 *italic*  
 ***bold italic***  
-~delete~
+~~delete~~
 
 - list 0
 - list 1
