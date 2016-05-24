@@ -2,7 +2,7 @@
 layout: post
 title: 공유충 참교육 프로젝트
 categories: [dev]
-tags: [Chrome Extension, Javascript]
+tags: [Facebook API, Justice]
 description: 공유충에게 자신이 공유충임을 자각시키는 일은 이제 혼자서는 역부족이게 되었다. 나에게는 무기가 필요하다.
 comments: true
 ---
@@ -21,10 +21,9 @@ comments: true
 1. 페이스북 API를 활용
 페이스북 API를 사용해 본적이 없지만, 왠지 생각보다 간편하게 목표를 이룰 수 있을것같은 예감이 들었다. [페이스북 개발자 페이지](https://developers.facebook.com/)를 가보니 `Graph API`라는 카테고리에서 사용자 담벼락 및 댓글, 공유등에 관한 기능을 REST API로 제공하고 있었다.  
 나에게 필수적으로 필요한 기능은 이랬다.
+
 - 공유충의 담벼락에 올라오는 새 글을 감지
 - 공유충의 담벼락에 댓글을 작성 
 
 이 두개면 충분했다.  
 ~~옘병!!~~ 공유충의 페이스북 담벼락에 접근하기위해서는 공유충의 계정을 통해 발급받은 API 토큰이 필요했다. 역시 남의 담벼락에 자동으로 댓글 달게 해주지는 않나보다.
-
-2. 
